@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>poc_nuget</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>poc-nuget</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Author</Authors>
+    <Company>Company</Company>
+    <Description>Description</Description>
+    <RepositoryUrl>https://github.com/julioarruda/poc-nuget</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
